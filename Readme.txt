@@ -1,3 +1,1 @@
-Ola's Tasty Bite.....
 
-#tasty and yummy bite for everyone 
