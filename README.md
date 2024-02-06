@@ -8,3 +8,5 @@ simple edit on the menu and price list
 task: change every image and heading 2 font 
 
 day 102
+
+uncomplicated issue 
