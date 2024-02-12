@@ -10,4 +10,3 @@ task: change every image and heading 2 font
 day 102
 
 uncomplicated issue 
-almost done 
