@@ -7,4 +7,4 @@ working on my thesis...
  
 task: change every image and heading 2 font 
 
-day 200
+day 3
